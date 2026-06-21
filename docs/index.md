@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# 📘 Sistemas Operativos en Red (SOR)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenido al libro digital del módulo.
 
-## Commands
+Este recurso está diseñado para alumnado de FP tanto presencial como a distancia.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## 📚 Temas del curso
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Tema 1 - Introducción a los SOR](tema1/)
+- [Tema 2 - Servicios de red](tema2/)
+- [Tema 3 - DNS y DHCP](tema3/)
+- [Tema 4 - Directorio activo](tema4/)
+- [Tema 5 - Seguridad en red](tema5/)
+- [Tema 6 - Administración avanzada](tema6/)
+
+---
+
+## 🎯 Cómo usar este material
+
+- Lee la teoría de cada tema
+- Realiza las actividades propuestas
+- Comprueba soluciones
+- Practica en entorno real

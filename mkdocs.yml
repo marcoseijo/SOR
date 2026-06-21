@@ -1,1 +1,66 @@
-site_name: My Docs
+site_name: Sistemas Operativos en Red
+site_description: Libro digital interactivo de SOR para FP
+site_author: Marcos Eijo
+
+theme:
+  name: material
+  language: es
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Modo oscuro
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search
+
+nav:
+  - Inicio: index.md
+
+  - Tema 1:
+      - Introducción: tema1/index.md
+      - Teoría: tema1/teoria.md
+      - Actividades: tema1/actividades.md
+
+  - Tema 2:
+      - Introducción: tema2/index.md
+      - Teoría: tema2/teoria.md
+      - Actividades: tema2/actividades.md
+
+  - Tema 3:
+      - Introducción: tema3/index.md
+      - Teoría: tema3/teoria.md
+      - Actividades: tema3/actividades.md
+
+  - Tema 4:
+      - Introducción: tema4/index.md
+      - Teoría: tema4/teoria.md
+      - Actividades: tema4/actividades.md
+
+  - Tema 5:
+      - Introducción: tema5/index.md
+      - Teoría: tema5/teoria.md
+      - Actividades: tema5/actividades.md
+
+  - Tema 6:
+      - Introducción: tema6/index.md
+      - Teoría: tema6/teoria.md
+      - Actividades: tema6/actividades.md
